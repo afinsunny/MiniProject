@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "/SwOoQPCBcVQDCVtITYLZL3kGHDrFsvtW3EunUZZbyI5qyyf6g07aXRfY7bMq1NmJZ0ZHr/5izOG+yeOuzfx+A==",
+  "success": true,
+  "projectFilePath": "F:\\ProbabilityCalculator\\backend\\ProbabilityCalculator.Api\\ProbabilityCalculator.Api\\ProbabilityCalculator.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Afin Sunny\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Afin Sunny\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Afin Sunny\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Afin Sunny\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Afin Sunny\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Afin Sunny\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

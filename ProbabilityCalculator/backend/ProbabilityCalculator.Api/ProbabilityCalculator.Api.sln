@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProbabilityCalculator.Api", "ProbabilityCalculator.Api\ProbabilityCalculator.Api.csproj", "{0FDEEEE1-2054-4397-95A7-4401208C1889}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProbabilityCalculator.Tests", "ProbabilityCalculator.Tests\ProbabilityCalculator.Tests.csproj", "{3B94AF23-A32A-43C2-BA04-8983E3E73D3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FDEEEE1-2054-4397-95A7-4401208C1889}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FDEEEE1-2054-4397-95A7-4401208C1889}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FDEEEE1-2054-4397-95A7-4401208C1889}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FDEEEE1-2054-4397-95A7-4401208C1889}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B94AF23-A32A-43C2-BA04-8983E3E73D3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B94AF23-A32A-43C2-BA04-8983E3E73D3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B94AF23-A32A-43C2-BA04-8983E3E73D3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B94AF23-A32A-43C2-BA04-8983E3E73D3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8CD1198-1BA4-4AF1-A5FA-A637EB1ADD4C}
+	EndGlobalSection
+EndGlobal
